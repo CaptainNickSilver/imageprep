@@ -1,0 +1,18 @@
+{
+  
+    "Locations": {
+        "raw_dir" : "C:\\Users\\Nick Malik\\go\\src\\github.com\\captainnicksilver\\imageprep\\raw",
+        "processed_dir":  "C:\\Users\\Nick Malik\\go\\src\\github.com\\captainnicksilver\\imageprep\\processed",
+        "quarantine_dir": "C:\\Users\\Nick Malik\\go\\src\\github.com\\captainnicksilver\\imageprep\\quarantine",
+        "log_dir":    "C:\\Users\\Nick Malik\\go\\src\\github.com\\captainnicksilver\\imageprep\\log",
+        "archive_dir": "C:\\Users\\Nick Malik\\go\\src\\github.com\\captainnicksilver\\imageprep\\archive"
+    },
+    "Options": {
+        "depth": "5",
+        "chars": "2",
+        "cleanup": "14",
+        "imagewidth": "1024",
+        "imageheight": "768"
+    }
+
+}
